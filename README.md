@@ -1,4 +1,4 @@
-### 안녕하세요 이원근입니다.
+# 안녕하세요 이원근입니다👋
 
 <!--
 **lwg1421/lwg1421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwg1421&show_icons=true&theme=radical)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwg1421&layout=compact)](https://github.com/lwg1421/github-readme-stats)
-
+<br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lwg1421)](https://github.com/lwg1421/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lwg1421&repo=Multicampus_Project3)](https://github.com/lwg1421/Multicampus_Project3.git)
