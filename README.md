@@ -9,7 +9,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lwg1421&repo=Multicampus_Project2)](https://github.com/lwg1421/MultiCampus_Project2.git)
 
-
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwg1421&show_icons=true&theme=radical)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwg1421&layout=compact)](https://github.com/lwg1421/github-readme-stats)
+</div>
