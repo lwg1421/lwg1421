@@ -1,6 +1,5 @@
 # 안녕하세요 이원근입니다👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwg1421&layout=compact&theme=dark)](https://github.com/lwg1421/github-readme-stats)
-github-readme-stats.vercel.app/api/top-langs/?username={lwg1421}&langs_count=5
 - Python
   - 데이터 수집
   - 데이터 분석
